@@ -26,7 +26,7 @@
   </tr>
    <tr>
    <td>Away Team</td>
-   <td><input="text"></td>
+   <td></td>
    <td></td>
    <td></td>
    <td></td>
