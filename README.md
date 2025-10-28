@@ -6,7 +6,7 @@
     <input type="text">
     <br/>
     Home Team:<br/>
-    <input type="text"> 
+    <input type="text">   
 </form>   
  <table>
   <tr>  
