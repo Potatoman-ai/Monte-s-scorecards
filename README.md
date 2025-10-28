@@ -9,9 +9,9 @@
     <input type="text">
 </form>   
  <table>
-  <tr>
+  <tr>  
    <td>Team</td>
-   <td class="text">1</td>
+   <td>1</td>
    <td>2</td>
    <td>3</td>
    <td>4</td>
@@ -26,7 +26,7 @@
   </tr>
    <tr>
    <td>Away Team</td>
-   <td></td>
+   <td><input="text"></td>
    <td></td>
    <td></td>
    <td></td>
