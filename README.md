@@ -1,4 +1,4 @@
-# Monte-s-scorecards
+ # Monte-s-scorecards
 <!doctype html>
 <html lang="en">
   <head>
@@ -24,7 +24,7 @@
       </table>
     </section>
 
-    <footer class="note">Tip: Click numbers to edit. Use Export to save a CSV. Print-friendly layout included.</footer>
+ 
 
     <script src="app.js"></script>
   </body>
