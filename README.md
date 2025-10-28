@@ -11,7 +11,7 @@
  <table>
   <tr>
    <td>Team</td>
-   <td <input="text">>1</td>
+   <td <input="text">1</td>
    <td>2</td>
    <td>3</td>
    <td>4</td>
