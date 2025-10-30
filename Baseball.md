@@ -1,5 +1,5 @@
  # Monte-s-scorecards
-<!doctype html>  
+ 
 <html lang="en">
 <form>
     Away team:<br/>
